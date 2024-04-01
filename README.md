@@ -23,7 +23,7 @@ Python version ```3.11``` or above is required to run this program. Older versio
 
 ### Creating a Virtual Environment
 
-*It is recommended to set up a virtual environment using ```venv```"
+*It is recommended to set up a virtual environment using ```venv```*
 
 1. Navigate to your project directory in the terminal.
 
