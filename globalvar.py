@@ -1,0 +1,4 @@
+detail = ""
+outline = ""
+chapterdesc = []
+fulltext = []
