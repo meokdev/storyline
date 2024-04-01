@@ -17,10 +17,11 @@ Storyline is powered by the Anthropic API. By default, the model used is claude 
 
 Regardless of the model used, the writing is able to maintain high contextual relevance. 
 
+
 ## Setup
 Python version ```3.11``` or above is required to run this program. Older versions may work, but are untested, and may be incompatible with anthropic.
 
-# Creating a Virtual Environment
+### Creating a Virtual Environment
 
 *It is recommended to set up a virtual environment using ```venv```"
 
