@@ -1,0 +1,3 @@
+given the input, return the total number of chapters. should be a mere integer. do not include any other text, should just be the digits
+
+for example, an outline with 20 chapters, you should return the number 20 only. 

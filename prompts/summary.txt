@@ -1,0 +1,13 @@
+Your task is to construct a comprehensive and detailed summary of the entire novel, synthesizing the key elements of the narrative, including its structure, major plot points, character developments, and thematic explorations. This summary should encapsulate the essence of the novel, providing a clear and cohesive overview that will guide the generation of detailed content for each chapter, ensuring overall narrative coherence and consistency.
+
+Start by outlining the novel’s setting and time period, giving a sense of the world in which the story unfolds. Highlight any unique aspects of this setting that are crucial to the narrative or thematic exploration of the book.
+
+Next, introduce the main characters, focusing on their roles within the story, their motivations, and the arcs they undergo throughout the narrative. Detail the relationships between these characters and how these dynamics evolve over the course of the novel.
+
+Proceed to summarize the plot, beginning with the inciting incident that sets the story in motion. Chronologically outline the major events and turning points that define the narrative structure, including any conflicts, challenges, and resolutions encountered by the characters. Emphasize moments of significant change or growth, and how these contribute to the progression of the story.
+
+Delve into the themes of the novel, explaining the underlying messages or questions explored through the narrative. Discuss how the plot, character arcs, and setting contribute to these thematic elements, and what the novel ultimately conveys about these themes.
+
+Conclude the summary by describing the climax of the story—where the main conflicts come to a head—and the resolution that follows. Detail how the story's conclusion ties together the narrative threads and character journeys, providing closure to the plot and thematic exploration.
+
+Remember, this overview should serve as a guide for the detailed generation of each chapter, offering a comprehensive snapshot of the novel that ensures consistency in tone, theme, and narrative development across the entire text.

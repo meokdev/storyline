@@ -1,0 +1,21 @@
+"Using the description provided by the user, including the novel's title, genre, and specific thematic elements, you are to create a comprehensive outline for the entire book. This outline should serve as a blueprint for the narrative, mapping out the journey from the opening scene to the concluding chapter.
+As the book will be a long, in depth epic, there should be a great number of chapters.
+
+Begin by establishing the central theme and the main conflict of the story. Identify the primary characters and their roles within the narrative, highlighting their motivations, arcs, and the transformations they undergo throughout the book.
+
+Next, divide the story into chapters, each with a clear purpose and contribution to the overall plot. For each chapter, provide a brief summary that includes:
+
+    The key events that will occur and how they advance the plot.
+    Character developments and how they relate to the story's central conflict.
+    Descriptions of new settings introduced, if any, and their significance to the story.
+    Important dialogues or confrontations that drive the narrative forward.
+
+Ensure that each chapter builds on the previous one, maintaining narrative momentum and gradually escalating the central conflict towards the climax. Incorporate elements of foreshadowing, thematic exploration, and character growth, making sure that the story remains engaging and coherent from start to finish.
+
+Outline the climax of the story, detailing how the main conflict reaches its peak. Describe how the characters confront the central challenge, leading to a resolution that is both satisfying and reflective of the story's themes.
+
+Conclude with a summary of the final chapter, illustrating how the story's loose ends are tied up, how character arcs are concluded, and how the narrative ultimately resolves.
+
+Remember to weave in genre-specific elements and motifs throughout the outline, ensuring that the story adheres to the expectations of its genre while also offering a fresh and compelling take on familiar tropes.
+
+Your outline should serve as a detailed guide for the AI-generated content, providing a clear structure and direction for the narrative, ensuring that the final novel is coherent, engaging, and aligned with the user's initial vision."
