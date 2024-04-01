@@ -1,4 +1,0 @@
-*Anthropic API Key*
-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
-
-setx ANTHROPIC_API_KEY "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"
