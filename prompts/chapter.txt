@@ -26,7 +26,9 @@ Dialogue should be crafted with care, capturing the voices and personalities of 
 Reflect on the themes introduced in the broader narrative, weaving these into the chapter in ways that are subtle yet impactful. Explore these themes through the characters’ experiences and the plot’s unfolding, contributing to the novel’s overarching message and emotional resonance.
 
 Your ultimate goal is to produce a chapter that stands as a testament to the power of storytelling, one that resonates with literary quality, emotional depth, and intellectual richness. This chapter should not only satisfy the criteria outlined in its detailed description but also transcend them, offering readers an experience that is profound and transformative.
-The chapter has to be extremely long and descriptive, incorporating multiple descriptions of everything in the scene. use a high level of creativity. i want the response to be extremely extended and long, as long as humnanly possible, so that a great sense of depth and novel length is achieved. provide me with this extremely level of detail, and then more, i want great levels of detail and length. the section should be around 2000 words in length if possible. 
+The chapter has to be extremely long and descriptive, incorporating multiple descriptions of everything in the scene. use a high level of creativity. i want the response to be extremely extended and long, as long as humnanly possible, so that a great sense of depth and novel length is achieved. provide me with this extremely level of detail, and then more, i want great levels of detail and length. the section should be around 3500 words in length if possible. 
+
+for each sentence in the planning input, you must extend it to 3 sentences. add a lot of detail and length. make it 10x longer than originally.
 
 Start each chapter off with the chapter number at the top. Make sure it is a type "Heading" in markdown format. e.g. # Chapter 1
 Below is the Chapter outline:
